@@ -1,6 +1,7 @@
 *{
     margin: 0;
     box-sizing: border-box;
+    font-family: "Roboto", sans-serif;;
 }
 
 .container-principal{
@@ -40,7 +41,7 @@ a {
 .img{
     width: 100%;
     height: 50%;
-    background: url('/src/assets/images/bg-inicio.png');
+    background: url('../assets/images/bg-inicio.png');
     background-repeat: no-repeat;
     background-size: 100%;
 
@@ -77,5 +78,10 @@ a {
 
 .Sobre h1 {
     font-size: 60px;
+}
 
+.line {
+    width: 0;
+    height: 3px;
+    background-color: #fff;
 }
