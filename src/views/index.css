@@ -1,7 +1,6 @@
 *{
     margin: 0;
     box-sizing: border-box;
-    font-family: "Roboto", sans-serif;;
 }
 
 .container-principal{
@@ -72,16 +71,12 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
 
     padding: 0 5%;
 }
 
 .Sobre h1 {
     font-size: 60px;
-}
 
-.line {
-    width: 0;
-    height: 3px;
-    background-color: #fff;
 }
