@@ -72,11 +72,39 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
 
     padding: 0 5%;
 }
 
 .Sobre h1 {
     font-size: 60px;
+    width:  460px;
 
+}
+
+.Sobre h3 {
+    height: 263px;
+    width: 442px;
+    font-weight: 500;
+
+    font-size: 30px;
+}
+
+.images img {
+    width: 324px;
+    height: 502px;
+
+    
+    
+}
+
+.images {
+    display: flex;
+    gap: 50px;
+    height: 85%;
+}
+
+.primeiro {
+    align-self: end;
 }
